@@ -1,4 +1,4 @@
-Code for my website: https://tannermorlan.com
+Repository for my website, https://tannermorlan.com
 
 Template by: https://colorlib.com/
 
