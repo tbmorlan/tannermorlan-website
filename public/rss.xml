@@ -2,19 +2,25 @@
 <rss version="2.0">
 
 <channel>
-  <title>Tanner Morlan Website</title>
-  <link>https://www.tannermorlan.com</link>
-  <description>My website!</description>
-  <item>
-    <title>My Work</title>
-    <link>https://tannermorlan.com/portfolio.html</link>
-    <description>My portfolio showing off all my personal work and school work.</description>
-  </item>
-  <item>
-    <title>My Certifications</title>
-    <link>https://tannermorlan.com/certifications.html</link>
-    <description>Every certification I have received throughout the years.</description>
-  </item>
+    <title>tannermorlan.com</title>
+    <item>
+        <title>Tanner Morlan Website</title>
+        <link>https://www.tannermorlan.com</link>
+        <description>My website!</description>
+        <pubDate>Thu, 03 Apr 2025</pubDate>
+    </item>
+    <item>
+        <title>My Work</title>
+        <link>https://tannermorlan.com/portfolio.html</link>
+        <description>My portfolio showing off all my personal work and school work.</description>
+        <pubDate>Thu, 03 Apr 2025</pubDate>
+    </item>
+    <item>
+        <title>My Certifications</title>
+        <link>https://tannermorlan.com/certifications.html</link>
+        <description>Every certification I have received throughout the years.</description>
+        <pubDate>Thu, 03 Apr 2025</pubDate>
+    </item>
 </channel>
 
 </rss>
