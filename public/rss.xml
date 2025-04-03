@@ -3,6 +3,9 @@
 
 <channel>
     <title>tannermorlan.com</title>
+    <link>https://www.tannermorlan.com</link>
+    <description>Tanner Morlan's personal website that acts as an interactive resume.</description>
+    <pubDate>Thu, 03 Apr 2025 13:51:36 +0000</pubDate>
     <item>
         <title>Tanner Morlan Website</title>
         <link>https://www.tannermorlan.com</link>
